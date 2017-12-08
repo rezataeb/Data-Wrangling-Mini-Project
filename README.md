@@ -9,3 +9,5 @@ My initial goals in this project were:
 2 - Finding the countries with most projects
 
 3 - Finding the major projects themes all around the world
+
+The main code can be found : [here] (https://github.com/rezataeb/Data-Wrangling-Mini-Project/blob/master/Data-Wrangling-Project-Code.ipynb)
